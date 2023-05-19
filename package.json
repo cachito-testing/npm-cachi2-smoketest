@@ -20,6 +20,6 @@
   "dependencies": {
     "debug": "",
     "is-positive": "github:kevva/is-positive",
-    "bitbucket-cachi2-npm-without-deps-second": "https://bitbucket.org/cachi-testing/cachi2-without-deps-second.git"
+    "bitbucket-cachi2-npm-without-deps-second": "https://github.com/cachito-testing/cachito-npm-without-deps.git"
   }
 }
