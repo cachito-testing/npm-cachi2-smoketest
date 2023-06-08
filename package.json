@@ -1,0 +1,28 @@
+{
+  "name": "npm_test",
+  "version": "1.1.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cachito-testing/cachito-npm-workspaces.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cachito-testing/cachito-npm-workspaces/issues"
+  },
+  "homepage": "https://github.com/cachito-testing/cachito-npm-workspaces#readme",
+  "workspaces": [
+    "baz"
+  ],
+  "description": "",
+  "dependencies": {
+    "@types/react-dom": "^18.0.1",
+    "is-positive": "github:kevva/is-positive",
+    "cachito-npm-without-deps": "https://github.com/cachito-testing/cachito-npm-without-deps/raw/tarball/cachito-npm-without-deps-1.0.0.tgz"
+  }
+}
