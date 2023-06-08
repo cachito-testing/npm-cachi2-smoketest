@@ -21,7 +21,6 @@
   ],
   "description": "",
   "dependencies": {
-    "@types/react-dom": "^18.0.1",
     "is-positive": "github:kevva/is-positive",
     "bitbucket-cachi2-npm-without-deps-second": "https://bitbucket.org/cachi-testing/cachi2-without-deps-second.git"
   }
