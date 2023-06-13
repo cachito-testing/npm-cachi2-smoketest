@@ -21,7 +21,8 @@
   ],
   "description": "",
   "dependencies": {
-    "is-positive": "github:kevva/is-positive",
-    "bitbucket-cachi2-npm-without-deps-second": "https://bitbucket.org/cachi-testing/cachi2-without-deps-second.git"
+    "bitbucket-cachi2-npm-without-deps-second": "https://bitbucket.org/cachi-testing/cachi2-without-deps-second.git",
+    "fecha": "file:fecha-4.2.3.tgz",
+    "is-positive": "github:kevva/is-positive"
   }
 }
