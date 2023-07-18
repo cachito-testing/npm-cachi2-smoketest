@@ -16,11 +16,10 @@
     "url": "https://github.com/cachito-testing/cachito-npm-workspaces/issues"
   },
   "homepage": "https://github.com/cachito-testing/cachito-npm-workspaces#readme",
-  "workspaces": [
-    "baz"
-  ],
   "description": "",
   "dependencies": {
+    "debug": "",
+    "@types/react-dom": "^18.0.1",
     "bitbucket-cachi2-npm-without-deps-second": "https://bitbucket.org/cachi-testing/cachi2-without-deps-second.git",
     "fecha": "file:fecha-4.2.3.tgz",
     "is-positive": "github:kevva/is-positive"
