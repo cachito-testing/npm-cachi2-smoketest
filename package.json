@@ -1,0 +1,21 @@
+{
+  "name": "cachi2-npm-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+        "@types/react-dom": "^18.0.1",
+        "bitbucket-cachi2-npm-without-deps-second": "git+https://bitbucket.org/cachi-testing/cachi2-without-deps-second.git",
+        "cachito-npm-without-deps": "https://github.com/cachito-testing/cachito-npm-without-deps/raw/tarball/cachito-npm-without-deps-1.0.0.tgz",
+        "fecha": "file:fecha-4.2.3.tgz"
+  },
+  "workspaces": [
+    "foo"
+  ]
+}
+
